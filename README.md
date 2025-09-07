@@ -1,2 +1,2 @@
 "# My First Git Repo"  
-"## Write few lines About yourself"  
+"## Hi my name is Sonal Dhanjal"  
